@@ -1,6 +1,7 @@
 ## 	Jest unit and e2e test automation sample
 
 **Installation**
+
 ``
 npm init
 ``
@@ -22,6 +23,7 @@ npm install babel-preset-env --save-dev
 ``
 
 **E2E**
+
 ``
 npm i puppeteer
 ``
