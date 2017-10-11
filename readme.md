@@ -27,3 +27,13 @@ npm install babel-preset-env --save-dev
 ``
 npm i puppeteer
 ``
+
+**Configuration**
+
+``
+npm install config
+``
+
+``
+npm install --save-dev cross-env
+``
